@@ -5,3 +5,4 @@
 void main(void){
   print("hello world!");
 }
+学习不是很好嘛？
