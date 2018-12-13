@@ -5,4 +5,5 @@
 void main(void){
   print("hello world!");
 }
-学习不是很好嘛？
+学习不是很好嘛
+hisense android huawei
