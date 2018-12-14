@@ -6,6 +6,7 @@ void main(void){
   print("hello world!");
 }
 学习不是很好嘛
-hisense android huawei
+hisense android huawe
 改变不是我自己
 是吗 我不是一个学生了啊
+哈哈哈 你是在搞笑吗？
